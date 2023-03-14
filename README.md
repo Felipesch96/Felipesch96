@@ -17,6 +17,6 @@
 Me gusta jugar al vóley y al fútbol, y en mis tiempos libres intento adquirir nuevos conocimientos relacionados al mundo IT.
 
 📩 Dejo mi contacto: felipe.schwindt36@gmail.com
-💻 GitHub: https://github.com/Felipesch96
+💻 LinkedIn: https://www.linkedin.com/in/felipe-schwindt-a61b37a8/
 ✨ Portfolio: proximamente
 📞 Wsp: +54 9 299 4577971
