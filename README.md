@@ -11,7 +11,8 @@
 🔧 Mi objetivo laboral es conseguir mi primer empleo como Full Stack Developer, para conseguir experiencia y aprender todo lo posible en algún proyecto. 
 
 💡 Idiomas: 
-• Inglés (advanced).
+• Inglés C2 Proficient.
+Certificado: https://www.efset.org/cert/Rs6xGs
 
 🎨 Otras cosas sobre mí: Tengo 27 años, soy desarrollador web, he realizado cursos de programación de videojuegos, de inglés, y de programación en Python.
 Me gusta jugar al vóley y al fútbol, y en mis tiempos libres intento adquirir nuevos conocimientos relacionados al mundo IT.
